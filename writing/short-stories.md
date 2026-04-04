@@ -4,7 +4,7 @@ title: Short Stories
 permalink: /writing/short-stories/
 ---
 
-Here I will collect my longer short stories.
+Here I will collect my short stories and longer scenes.
 
 <ul>
 {% for post in site.posts %}
