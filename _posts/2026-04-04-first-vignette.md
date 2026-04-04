@@ -3,6 +3,7 @@ layout: post
 title: "The Fading Flame"
 date: 2026-04-04
 categories: [flash-fiction]
+tags: [writing, flash fiction]
 ---
 
 Dark blood traced across his hands and his robes as he stepped back from the altar, observing the still form.
