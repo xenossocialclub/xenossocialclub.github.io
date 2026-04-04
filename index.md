@@ -5,6 +5,6 @@ title: "Welcome"
 
 # Welcome
 
-This is my personal blog.
+Welcome to my personal website.
 
-More coming soon.
+Here I publish hobby writing, worldbuilding notes and selected personal projects.
