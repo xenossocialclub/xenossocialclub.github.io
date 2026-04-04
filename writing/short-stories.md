@@ -5,6 +5,9 @@ permalink: /writing/short-stories/
 ---
 
 ## Short Stories
+This is the place for my short stories, longer scenes or worldbuilding pieces.
+
+---
 
 {% raw %}
 {% for post in site.posts %}
