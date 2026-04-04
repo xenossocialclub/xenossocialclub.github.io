@@ -10,6 +10,7 @@ tags: [writing, flash fiction]
 
 
 
+
 **“Bring me another,” Tarâkêl the Incursor said to his aide, who hurried away promptly.**
 
 Still savouring his recent kill, the high lord deemed the ritual he had just performed one of his best in months.
