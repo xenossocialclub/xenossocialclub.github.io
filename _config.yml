@@ -3,7 +3,7 @@ title: Xenos Social Club
 description: Writing, worldbuilding and projects
 
 minima: 
-  nav_pages:
+  header_pages:
     - about.md
     - writing.md
     - projects.md
