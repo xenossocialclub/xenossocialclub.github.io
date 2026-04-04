@@ -5,6 +5,9 @@ permalink: /writing/flash-fiction/
 ---
 
 ## Flash Fiction
+Here I will post flash fiction pieces, vignettes and short atmospheric scenes.
+
+---
 
 {% raw %}
 {% for post in site.posts %}
