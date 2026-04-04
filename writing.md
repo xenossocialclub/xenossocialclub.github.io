@@ -4,11 +4,11 @@ title: Writing
 permalink: /writing/
 ---
 
-## Current areas
+Welcome to my writing archive.
 
-- Writing
-- Worldbuilding
-- Unreal Engine experiments
-- Other personal projects
+## Sections
 
-More detailed project pages may follow later.
+- [Short Stories](/writing/short-stories/)
+- [Flash Fiction](/writing/flash-fiction/)
+
+Here you'll find short fiction, vignettes and longer pieces.
