@@ -2,7 +2,7 @@ theme: minima
 title: Xenos Social Club
 description: Writing, worldbuilding and projects
 
- header_pages:
-   - about.md
-   - writing.md
-   - projects.md
+header_pages:
+ - about.md
+ - writing.md
+ - projects.md
