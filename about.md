@@ -8,7 +8,7 @@ Hi,
 
 **I'm Fabian from Hesse, Germany.**
 
-Currently in my late 20s, working in public transportation as a project manager for sales/ customer service and as a public transport safety advocate.
+Currently in my late 20s, working in public transportation as a project manager in the sales & customer service department and as a public transport safety advocate.
 
 I studied urban planning at a university in the centre of Germany, specialising in sustainable regional development and mobility planning during my master’s degree.
 
