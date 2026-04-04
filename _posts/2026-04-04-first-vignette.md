@@ -4,6 +4,7 @@ title: "The Fading Flame"
 date: 2026-04-04
 categories: [flash-fiction]
 tags: [writing, flash fiction]
+excerpt: "A ritual. A Sacrifice. A step towards entropy's inner circle."
 ---
 
 > Sci-Fi flash fiction by Fabian Düsterdiek (2026)
