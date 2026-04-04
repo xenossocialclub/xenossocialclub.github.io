@@ -6,3 +6,4 @@ minima:
   nav_pages:
     - about.md
     - writing.md
+    - projects.md
