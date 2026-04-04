@@ -25,6 +25,7 @@ Since then, for well over fifteen years now, I have been writing mainly for myse
 So, at the evening of the 3rd of April 2026, I got on YouTube and GitHub to try myself at building a simple website to publish some of my writing, my worldbuilding, and maybe some other project I’ve been working on — even if no one is realistically going to see it.
 
 Do I nurture my escapism with it, instead of going outside: *definitely.*
+
 Is that necessarily a bad thing in these increasingly turbulent times: *I don’t think so.*
 
 For more about me, visit the about page [here](https://xenossocialclub.com/about/)
