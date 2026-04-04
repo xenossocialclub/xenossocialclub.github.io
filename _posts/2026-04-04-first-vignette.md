@@ -6,7 +6,7 @@ categories: [flash-fiction]
 tags: [writing, flash fiction]
 ---
 
-> by Fabian Düsterdiek (2026)
+> Sci-Fi flash fiction by me (2026)
 
 
 
