@@ -2,6 +2,7 @@
 title: "What's this all about"
 date: 2026-04-03
 excerpt: A late night idea turned website. 行きましょう！
+tags: [general]
 ---
 
 Hello everybody,
