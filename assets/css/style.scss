@@ -1,1 +1,16 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+.site-title {
+  font-weight: 700;
+}
+
+.page-content {
+  max-width: 900px;
+}
+
+.post-content p {
+  line-height: 1.7;
+}
