@@ -24,4 +24,4 @@ So, everything from a cozy city building game, a good Sci-Fi audiobook and train
 
 📷 [Instagram](https://www.instagram.com/xenossocialclub?igsh=MXN6cjRqam53dWl0Zw==)
 
-🎧 [Discord](https://discord.gg/9ps7WQxFJf)
+🎧 [Discord Server](https://discord.gg/9ps7WQxFJf)
