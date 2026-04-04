@@ -16,7 +16,7 @@ Growing up on many different Sci-Fi franchises, I dreamt of having my own cantin
 
 What had stuck though, was my love for science fiction stories across different media; Star Wars, Star Trek, StarCraft, Stargate… all were fuelling my desire to build my own worlds, make up my own stories and bring my creative brain to actually do something for once.
 
-I started my creative writing journey in sixth grade, when my mom forced me to go to a “Schreibwerkstatt” or writing workshop with a friend of mine. And although it took me a while to find my passion for it, it gave me the chance to put all the ideas I had in my mind to paper.
+I started my creative writing journey in sixth grade, when my mom forced me to go to a [“Schreibwerkstatt”](https://www.lernzentrum-tintenfleck.de/) or writing workshop with a friend of mine. And although it took me a while to find my passion for it, it gave me the chance to put all the ideas I had in my mind to paper.
 
 Since then, for well over fifteen years now, I have been writing mainly for myself with varying intensity and interests. Besides a couple of stories from my early days at “Schreibwerkstatt” and a few magazine articles on my other passion (public transportation), not much has ever been published.
 
