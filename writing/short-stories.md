@@ -4,13 +4,12 @@ title: Short Stories
 permalink: /writing/short-stories/
 ---
 
-## Short Stories
-This is the place for my short stories, longer scenes or worldbuilding pieces.
+Here I will collect my longer short stories.
 
----
-
+<ul>
 {% for post in site.posts %}
   {% if post.categories contains "short-stories" %}
-    - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%d %b %Y" }}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%d %b %Y" }}</li>
   {% endif %}
 {% endfor %}
+</ul>
