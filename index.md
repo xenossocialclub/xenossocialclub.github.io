@@ -24,4 +24,4 @@ Stick around, explore, and join the conversation.
 
 > **Disclaimer:** I made this site mostly for fun, learning how to build a page with GitHub and grow it along the way. If you’ve wandered here by chance, welcome! It’s not fancy, but it works, and that’s what matters.
 
-### Check out the latest posts
+## Check out the latest posts
