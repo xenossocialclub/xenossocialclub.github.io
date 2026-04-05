@@ -13,7 +13,6 @@ This is the writing section of the site, where I collect short fiction, vignette
   </div>
 
   <div class="writing-block">
-    border-bottom: dotted 2px black;
     <h2><a href="/writing/short-stories/">Short Stories</a></h2>
     <p>Longer standalone fiction and more developed narrative pieces.</p>
   </div>
