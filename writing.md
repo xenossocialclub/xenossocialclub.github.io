@@ -8,7 +8,6 @@ This is the writing section of the site, where I collect short fiction, vignette
 
 <div class="writing-sections">
   <div class="writing-block">
-    border-bottom: dotted 2px black;
     <h2><a href="/writing/flash-fiction/">Flash Fiction</a></h2>
     <p>Brief atmospheric scenes, fragments and character moments.</p>
   </div>
