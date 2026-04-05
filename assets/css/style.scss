@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background: #0f1115;
+  color: #e6e6e6;
+}
+
+
 .site-title {
   font-weight: 700;
 }
@@ -11,10 +17,6 @@
   max-width: 900px;
 }
 
-body {
-  background: #0f1115;
-  color: #e6e6e6;
-}
 
 .post-content p {
   line-height: 1.7;
@@ -34,7 +36,7 @@ small {
   color: #666;
 }
 
-// added this for posts
+
 
 .post-list {
   margin-top: 2rem;
