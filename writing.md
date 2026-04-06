@@ -18,6 +18,8 @@ This is the writing section of the site, where I collect short fiction, vignette
   </div>
 </div>
 
+<div class="separator"></div>
+
 ## Recent Writing
 
 <div class="post-list">
