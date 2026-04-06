@@ -41,13 +41,13 @@ body {
 
 .site-title,
 .site-title:visited {
-  color: #f2f6ff;
+  color: var(--color-text-dim);
   font-weight: 600;
 }
 
 .site-nav .page-link,
 .site-nav .page-link:visited {
-  color: #c7d3e3;
+  color: var(--color-text-dim);
 }
 
 .site-nav .page-link:hover {
@@ -72,21 +72,21 @@ h1, h2, h3 {
 }
   
 h4, h5, h6 {
-  color: #f4f7fb;
+  color: var(--color-text);
   letter-spacing: 0.02em;
 }
 
 p, li {
-  color: #d6dde8;
+  color: var(--color-text);
   line-height: 1.7;
 }
 
 a {
-  color: #8bb8ff;
+  color: var(--color-text);
 }
 
 a:hover {
-  color: #bfd8ff;
+  color: var(--color-highlight);
 }
 
 /* ===== Design elements ===== */
@@ -143,7 +143,7 @@ a:hover {
 
 .post-meta {
   font-size: 0.95rem;
-  color: #94a3b8;
+  color: var(--color-text-dim);
   margin-bottom: 0.8rem;
 }
 
@@ -151,7 +151,7 @@ a:hover {
   font-size: 1rem;
   line-height: 1.7;
   margin-bottom: 0.8rem;
-  color: #d6dde8;
+  color: var(--color-text);
 }
 
 /* ===== Tags ===== */
