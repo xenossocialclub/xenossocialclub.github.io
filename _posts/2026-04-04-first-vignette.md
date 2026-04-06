@@ -7,11 +7,6 @@ tags: [writing, flash fiction, dark]
 excerpt: "A ritual. A Sacrifice. A step towards entropy's inner circle."
 ---
 
-> Sci-Fi flash fiction by Fabian Düsterdiek (2026)
-
-
-
-
 **“Bring me another,” Tarâkêl the Incursor said to his aide, who hurried away promptly.**
 
 Still savouring his recent kill, the high lord deemed the ritual he had just performed one of his best in months.
