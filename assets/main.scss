@@ -201,6 +201,39 @@ a:focus {
   color: #c7d3e3;
 }
 
+/* ===== Home page blocks ===== */
+
+.hero {
+  text-align: center;
+  padding: 5rem 1rem 3rem;
+}
+
+.hero-subtitle {
+  color: var(--color-text-dim);
+  font-size: 1.2rem;
+}
+
+.home-sections {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin: 3rem 0;
+}
+
+.section-card {
+  border: 1px solid var(--color-border);
+  padding: 1.5rem;
+  max-width: 320px;
+  background: var(--color-surface);
+}
+
+.latest-posts {
+  margin-top: 3rem;
+}
+
+
+
+
 /* ===== Writing page blocks ===== */
 
 .home-intro {
