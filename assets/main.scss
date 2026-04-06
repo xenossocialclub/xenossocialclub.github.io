@@ -40,6 +40,7 @@ body {
 .site-header {
   background-color: var(--color-bg-soft);
   border-bottom: 1px solid var(--color-border);
+  flex-wrap: wrap;
 }
 
 .site-title,
@@ -246,6 +247,7 @@ a:focus {
 .site-footer {
   border-top: 1px solid #253246;
   background-color: #131720;
+  flex-wrap: wrap;
 }
 
 .footer-col-wrapper,
