@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 <article class="post">
 
   <header class="post-header">
@@ -11,12 +13,6 @@ layout: default
     </p>
   </header>
 
-  <div class="separator"></div>
-  
-  <div class="post-content reading-width">
-    {{ content }}
-  </div>
-
   {% if page.tags %}
   <p class="post-tags">
     <strong>Tags:</strong>
@@ -25,5 +21,11 @@ layout: default
     {% endfor %}
   </p>
   {% endif %}
+  
+  <div class="separator"></div>
+  
+  <div class="post-content reading-width">
+    {{ content }}
+  </div>
 
 </article>
