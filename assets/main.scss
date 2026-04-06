@@ -32,9 +32,6 @@ body {
   font-family: "Inter", system-ui, sans-serif;
   color: var(--color-text);
   background: var(--color-bg);
-  display: flex;
-  justify-content: center;
-	align-items: center;
 }
 
 .site-header {
@@ -59,15 +56,15 @@ body {
   text-decoration: none;
 }
 
-/*
 .page-content {
-  max-width: 80%;
+  display: flex;
+  justify-content: center;
 }
 
-.wrapper {
-  max-width: 100%;
+.page-content .wrapper {
+  width: 100%;
+  max-width: 1000px;
 }
-*/
 
 /* ===== Typography ===== */
 
