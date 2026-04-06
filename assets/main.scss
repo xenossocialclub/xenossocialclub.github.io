@@ -227,6 +227,14 @@ a:focus {
   background: var(--color-surface);
 }
 
+.section-card a {
+  color: var(--color-text);
+}
+
+.section-card a:hover {
+  color: var(--color-link);
+}
+
 .latest-posts {
   margin-top: 3rem;
 }
