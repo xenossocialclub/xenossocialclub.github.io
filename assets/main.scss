@@ -52,7 +52,7 @@ body {
 }
 
 .site-nav .page-link:hover {
-  color: var(--color-accent);
+  color: var(--color-link);
   text-decoration: none;
 }
 
@@ -87,13 +87,13 @@ p, li {
 }
 
 a {
-  color: var(--color-link);
+  color: var(--color-accent);
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: var(--color-accent);
+  color: var(--color-link);
   text-decoration: none;
 }
 
@@ -104,15 +104,15 @@ a:focus {
 
 .writing-sections h2 a:hover,
 .writing-sections h2 a:focus {
-  color: var(--color-accent);
+  color: var(--color-link);
 }
 
 
 /* ===== Design elements ===== */
 
 .section {
-  padding: 3rem 0;
-  border-top: 1px dotted var(--color-dotted);
+  padding: 1rem 0;
+  border-top: 2px dotted var(--color-dotted);
 }
 
 .grid-3 {
