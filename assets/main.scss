@@ -12,6 +12,7 @@
   /* Text */
   --color-text: #e6e9f2;
   --color-text-dim: #9aa3b2;
+  --color-link: coral;
 
   /* Accents (default = human / neutral sci-fi) */
   --color-accent: #5fd0ff;
@@ -87,7 +88,7 @@ p, li {
 }
 
 a {
-  color: var(--color-text);
+  color: var(--color-link);
   text-decoration: none;
 }
 
