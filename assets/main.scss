@@ -34,24 +34,23 @@ body {
 }
 
 .site-header {
-  background-color: #131720;
-  border-top: 2px solid #2c3b52;
-  border-bottom: 1px solid #253246;
+  background-color: var(--color-bg-soft);
+  border-bottom: 1px solid var(--color-border);
 }
 
 .site-title,
 .site-title:visited {
-  color: var(--color-text-dim);
+  color: var(--color-text);
   font-weight: 600;
 }
 
 .site-nav .page-link,
 .site-nav .page-link:visited {
-  color: var(--color-text-dim);
+  color: var(--color-text);
 }
 
 .site-nav .page-link:hover {
-  color: #ffffff;
+  color: var(  --color-accent);
   text-decoration: none;
 }
 
