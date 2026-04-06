@@ -3,7 +3,7 @@ layout: post
 title: "The Fading Flame"
 date: 2026-04-04
 categories: [flash-fiction]
-tags: [writing, flash fiction]
+tags: [writing, flash fiction, dark]
 excerpt: "A ritual. A Sacrifice. A step towards entropy's inner circle."
 ---
 
