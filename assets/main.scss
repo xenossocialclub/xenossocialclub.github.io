@@ -53,16 +53,16 @@ body {
 }
 
 .site-nav .page-link:hover {
-  color: var(  --color-accent);
+  color: var(--color-accent);
   text-decoration: none;
 }
 
 .page-content {
-  max-width: 960px;
+  max-width: 80%;
 }
 
 .wrapper {
-  max-width: 1100px;
+  max-width: 100%;
 }
 
 /* ===== Typography ===== */
@@ -71,6 +71,7 @@ h1, h2, h3 {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 600;
+  color: var(--color-text);
 }
   
 h4, h5, h6 {
@@ -85,10 +86,12 @@ p, li {
 
 a {
   color: var(--color-text);
+  text-decoration: none;
 }
 
 a:hover {
-  color: var(--color-highlight);
+  color: var(--color-accent);
+  text-decoration: none;
 }
 
 /* ===== Design elements ===== */
