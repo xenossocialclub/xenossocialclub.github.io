@@ -2,25 +2,53 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<!-- HERO -->
+<section class="hero">
+  <h1>Xenos Social Club</h1>
+  <p class="hero-subtitle">
+    A place between worlds — stories, fragments, and transmissions.
+  </p>
+</section>
 
-{{ content }}
+<!-- ENTRY POINTS -->
+<section class="home-sections">
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      — {{ post.date | date: "%d %b %Y" }}
+  <div class="section-card">
+    <h2><a href="/writing/">Writing</a></h2>
+    <p>Flash fiction, short stories, and narrative fragments.</p>
+  </div>
 
-      {% if post.tags %}
-        <br>
-        <small>
-          {% for tag in post.tags %}
-            #{{ tag }}
-          {% endfor %}
-        </small>
-      {% endif %}
+  <div class="section-card">
+    <h2><a href="/projects/">Projects</a></h2>
+    <p>Worldbuilding, experiments, and ongoing ideas.</p>
+  </div>
 
-    </li>
-  {% endfor %}
-</ul>
+</section>
+
+<!-- LATEST POSTS -->
+<section class="latest-posts">
+  <h2>Latest Transmission</h2>
+
+  <div class="post-list">
+    {% for post in site.posts limit:3 %}
+      <div class="post-preview">
+
+        <h3>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+
+        <p class="post-meta">
+          {{ post.date | date: "%d %b %Y" }}
+        </p>
+
+        <p class="post-excerpt">
+          {{ post.excerpt }}
+        </p>
+
+      </div>
+    {% endfor %}
+  </div>
+
+</section>
