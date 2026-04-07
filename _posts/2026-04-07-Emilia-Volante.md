@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emilia Volante"
-date: 2026-04-04
+date: 2026-04-07
 categories: [short-stories]
 tags: [writing, short stories, first contact, mysterious]
 excerpt: "She had ferried hundreds of passengers between worlds beneath the quiet glow of cabin lights, never once thinking about what might follow them.
